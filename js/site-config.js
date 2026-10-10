@@ -69,6 +69,8 @@ window.weddingConfig = {
     closeup: 'assets/images/couple/couple-closeup.webp',
     outdoor: 'assets/images/couple/couple-outdoor.webp',
     family: 'assets/images/couple/family-photo.webp',
+    groomFamily: 'assets/images/couple/family-photo.webp',
+    brideFamily: 'assets/images/couple/bride family.jpeg',
     groomPortrait: 'assets/images/couple/groom-portrait.png',
     bridePortrait: 'assets/images/couple/bride-portrait.png',
     audio: 'assets/audio/inkem-inkem_g300U6Yp.mp3'
